@@ -1,17 +1,20 @@
 {
-  "profiles": [
+  "remote_mods": [
     {
-      "name": "正式版适配方案",
-      "game_version": "v0.99", 
-      "mods": [
-        { "id": "ModA", "version": "1.2.0", "folder_name": "ModA_Dir", "download_url": "..." }
+      "name": "伤害统计",
+      "folder_name": "DamageMeter",
+      "description": "统计dpi",
+      "versions": [
+        { "ver": "1.7.6", "game_ver": "v0.99", "url": "..." },
+        { "ver": "1.7.5", "game_ver": "v0.98", "url": "..." }
       ]
     },
     {
-      "name": "测试版适配方案",
-      "game_version": "v1.0.1",
-      "mods": [
-        { "id": "ModA", "version": "1.3.0", "folder_name": "ModA_Dir", "download_url": "..." }
+      "name": "多人联机",
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "description": "多人上限8-16",
+      "versions": [
+        { "ver": "0.0.5", "game_ver": "v0.99", "url": "..." }
       ]
     }
   ]
