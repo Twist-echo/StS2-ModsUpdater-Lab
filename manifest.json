@@ -1,0 +1,16 @@
+{
+  "profiles": [
+    {
+      "name": "测试配置",
+      "description": "测试版本",
+      "mods": [
+        {
+          "id": "TestMod_01",
+          "version": "1.0.0",
+          "folder_name": "TestModFolder",
+          "download_url": "https://raw.githubusercontent.com/Twist-echo/StS2-ModsUpdater-Lab/main/test.zip"
+        }
+      ]
+    }
+  ]
+}
