@@ -5,8 +5,8 @@
       "folder_name": "DamageMeter",
       "description": "统计dpi",
       "versions": [
-        { "ver": "1.7.6", "game_ver": "v0.99", "url": "..." },
-        { "ver": "1.7.5", "game_ver": "v0.98", "url": "..." }
+        { "ver": "1.7.6", "game_ver": "v0.99", "url": "https://raw.githubusercontent.com/Twist-echo/StS2-ModsUpdater-Lab/main/manifest.json" },
+        { "ver": "1.7.5", "game_ver": "v0.98", "url": "https://raw.githubusercontent.com/Twist-echo/StS2-ModsUpdater-Lab/main/manifest.json" }
       ]
     },
     {
@@ -14,7 +14,7 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "description": "多人上限8-16",
       "versions": [
-        { "ver": "0.0.5", "game_ver": "v0.99", "url": "..." }
+        { "ver": "0.0.5", "game_ver": "v0.99", "url": "https://raw.githubusercontent.com/Twist-echo/StS2-ModsUpdater-Lab/main/manifest.json" }
       ]
     }
   ]
